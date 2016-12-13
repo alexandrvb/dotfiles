@@ -22,6 +22,7 @@ call vundle#begin()
 Plugin 'scrooloose/nerdtree'
 Plugin 'mileszs/ack.vim'
 Plugin 'tpope/vim-fugitive'
+Plugin 'gregsexton/gitv'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
