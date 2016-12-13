@@ -9,6 +9,7 @@ set smarttab
 set expandtab
 set number
 set ruler
+set wildmenu
 
 syntax on
 
