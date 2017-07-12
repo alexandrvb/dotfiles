@@ -24,6 +24,7 @@ Plugin 'mileszs/ack.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'gregsexton/gitv'
 Plugin 'airblade/vim-gitgutter'
+Plugin 'vimwiki/vimwiki'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
